@@ -6,8 +6,8 @@
   },
   "servers": [
     {
-      "url": "http://localhost:5002",
-      "description": "Lokaler Entwicklungsserver"
+      "url": "/",
+      "description": "Aktueller Server"
     }
   ],
   "tags": [
